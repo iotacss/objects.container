@@ -1,0 +1,18 @@
+{
+  "name": "iotacss-objs-container",
+  "version": "1.0.0",
+  "description": "Container object for iotaCSS",
+  "main": "_objects.container.scss",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iotacss/objects.container.git"
+  },
+  "keywords": [
+    "iotacss",
+    "css",
+    "sass",
+    "bem",
+    "oocss"
+  ],
+  "author": "Dimitris Psaropoulos <info@harby.me>"
+}
