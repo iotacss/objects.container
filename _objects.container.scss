@@ -29,7 +29,7 @@ $iota-objs-container-var-mod : $iota-objs-container-var + "--";
   margin-left:  auto;
   @include _iota-generate-unit('padding', 'right', $iota-objs-container-gutter-default);
   @include _iota-generate-unit('padding', 'left', $iota-objs-container-gutter-default);
-  max-width: $iota-objs-container-size-default;
+  @include _iota-generate-unit('max', 'width', $iota-objs-container-size-default);
 }
 
 
